@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+}
+.row{
+    margin-top: 30px;
+}
+.nature-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0px;
+    
+}
+.card-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px;
+}
